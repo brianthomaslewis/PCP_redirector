@@ -2,7 +2,7 @@
 
 ## Background
 
-Our practicum partner is a large health insurance company (LHIC) operating in the United
+Our partner is a large health insurance company (LHIC) operating in the United
 States across several states. LHIC employs a care
 management team to engage with high-risk individuals covered under its plans. This team
 is tasked with helping its high-risk member population make healthier choices, obtain
